@@ -24,4 +24,4 @@ rf.fit(x_train, y_train)
 import joblib
 
 joblib.dump(rf, 'rf_model.pkl')
-print("MOdel seved as rf_model.pkl")
+print("Model saved as rf_model.pkl")
